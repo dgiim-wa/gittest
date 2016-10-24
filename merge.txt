@@ -10,3 +10,4 @@
 9. nine.
 10 ten(left)
 11 eleven (left)
+12. twelve.(right)
