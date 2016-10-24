@@ -8,6 +8,5 @@
 7. seven
 8. eight.
 9. nine.
-
-
-12 twelve?
+10 ten(left)
+11 eleven (left)
