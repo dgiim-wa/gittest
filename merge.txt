@@ -8,7 +8,7 @@
 7. seven
 8. eight.
 9. nine.
-10 ten(left)
+10 ten(left)	master에서 작업 (10)
 11 eleven (left)
 12. twelve.(right)
 
